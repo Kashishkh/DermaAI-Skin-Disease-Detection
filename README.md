@@ -1,4 +1,4 @@
-# 🩺 DermaAI – AI-Powered Skin Disease Classification
+# 🩺 DermaAI – AI-Powered Skin Disease Detection
 
 > A deep learning framework for automated skin disease detection using dermatoscopic images and state-of-the-art CNN architectures.
 
